@@ -1,0 +1,39 @@
+_repo: Luvattu-maa-b-Romaani_71560
+_version: 0.0.1
+contributor:
+  translator:
+    agent_name: Walldén, Hilja
+    alias: Wallden, Hilja
+    birthdate: 1871
+    deathdate: 1929
+    gutenberg_agent_id: '42640'
+    url: http://www.gutenberg.org/2009/agents/42640
+    wikipedia: https://fi.wikipedia.org/wiki/Hilja_Walld%C3%A9n
+creator:
+  author:
+    agent_name: Prydz, Alvilde
+    birthdate: 1848
+    deathdate: 1922
+    gutenberg_agent_id: '49705'
+    url: http://www.gutenberg.org/2009/agents/49705
+    wikipedia:
+    - https://fi.wikipedia.org/wiki/Alvilde_Prydz
+    - https://en.wikipedia.org/wiki/Alvilde_Prydz
+    - https://no.wikipedia.org/wiki/Alvilde_Prydz
+description: ''
+gutenberg_issued: '2023-09-04'
+identifiers:
+  gutenberg: '71560'
+language: fi
+pgterms:marc905: 20230827053414prydz
+pgterms:marc906: '1919'
+pgterms:marc907: FI
+production_note: Juhani Kärkkäinen and Tapio Riikonen
+publication_note: '  $aFinland :$bWerner Söderström Osakeyhtiö, $c1919.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: 'Luvattu maa : $b Romaani'
+url: http://www.gutenberg.org/ebooks/71560
