@@ -9,6 +9,9 @@ contributor:
     gutenberg_agent_id: '42640'
     url: http://www.gutenberg.org/2009/agents/42640
     wikipedia: https://fi.wikipedia.org/wiki/Hilja_Walld%C3%A9n
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Prydz, Alvilde
@@ -21,6 +24,8 @@ creator:
     - https://en.wikipedia.org/wiki/Alvilde_Prydz
     - https://no.wikipedia.org/wiki/Alvilde_Prydz
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/71560#Luvattu-maa-b-Romaani
 gutenberg_issued: '2023-09-04'
 identifiers:
   gutenberg: '71560'
